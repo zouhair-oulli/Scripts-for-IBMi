@@ -1,2 +1,8 @@
 # Scripts-for-IBMi
-This repository will contain some scripts I have developed for IBM i (Bash and CL)
+
+### pase_config.sh
+**`chmod +x pase_config.sh` → make the bash script executable**  
+
+**`/usr/bin/bash pase_config.sh` → execute the script**  
+
+---
