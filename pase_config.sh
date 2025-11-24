@@ -110,7 +110,6 @@ source /home/$user/.profile
 echo " "
 echo -e "\e[34mEND OF PROGRAM MESSAGE: Setting up the PASE and shell environment for the user profile $user is finished :)\e[0m"
 echo " "
-#echo -e "\e[31mVERY IMPORTRANT: If you launched this script for the user you are signed in with, apply the configuration by relogging or launching a new shell with command "'exec $SHELL -l'"\e[0m"
 echo -e "\e[31mVERY IMPORTRANT: If you launched this script for the user you are signed in with, apply the configuration by relogging or launching a new shell with command \"exec \$SHELL -l\"\e[0m"
 
 echo " "
