@@ -1,14 +1,17 @@
 # Scripts-for-IBMi
 
-### pase_config.sh
+### pase_config.sh: bash script to configure PASE, shell and SSH permissions on IBM i (initial setup)
 **`chmod +x pase_config.sh` → make the bash script executable**  
 
-**`/usr/bin/bash pase_config.sh` → execute the script**  
+**`/QOpenSys/pkgs/bin/yum install bash` → install bash**  
 
-<img width="1562" height="748" alt="EYpLzihusq" src="https://github.com/user-attachments/assets/e9a50c32-5375-48e9-91bd-5a529c242dfc" />  
-<img width="1858" height="861" alt="DPWNZm6ngR" src="https://github.com/user-attachments/assets/a145cff3-410f-4389-81f1-4848abaf23e0" />  
+**`/QOpenSys/pkgs/bin/bash pase_config.sh` → execute the script**  
+
+<img width="1210" height="444" alt="SCR-20260106-pwng" src="https://github.com/user-attachments/assets/3da50d07-e10e-4b5d-978e-c34e79120d24" />
+<img width="1443" height="515" alt="SCR-20260106-pwsb" src="https://github.com/user-attachments/assets/6b28da03-c488-40df-8c01-3b2e788fdcb1" />
+
 
 Error case
-<img width="1533" height="187" alt="gEz0V8x16R" src="https://github.com/user-attachments/assets/dff2dd24-dc2a-40db-aad1-62b5f1cb0c4e" />
+<img width="1201" height="58" alt="SCR-20260106-pxlh" src="https://github.com/user-attachments/assets/d44c4b96-e343-4adb-b650-31725b9bc9c9" />
 
 ---
