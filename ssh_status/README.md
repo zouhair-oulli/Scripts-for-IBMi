@@ -27,7 +27,7 @@ This CL program is using the RPG Free-Form program “ENDTCPCNN.sqlrpgle” to e
 This CL program is regrouping all CL and RPG Free-Form programs (MSG_CHECK.sqlrpgle + JOB_CHECK.sqlrpgle + ENDTCPCNN.sqlrpgle + SSH_RST.clp).
 
 ## SSH_STATUS.cmd
-We can create a customized command
+We can create a customized command  
 `CRTSRCPF FILE(ZO/QCMDSRC) TEXT('Source PF - CMD')` → create CMD source physical file  
 `CMD PROMPT('Check status of SSH')`
 
